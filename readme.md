@@ -1,3 +1,9 @@
+4. 基于非监督学习与Dependency Parsing的人物观点提取
+
+时间：2017年
+地址：https://github.com/fortyMiles/FindOpinion
+介绍：该项目使用Word Embedding, TextRank, Sentence Embedding, Dependency Parsing等机制，实现了新闻中的任务观点提取。 
+
 # Quotes Extractor
 
 ## 1. Extract quotes from text.
